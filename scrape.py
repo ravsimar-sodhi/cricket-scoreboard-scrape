@@ -18,6 +18,7 @@ with open('scores.csv', mode='w') as scores:
             cell = row.find('div', class_='cell')
             print(cell.string, end = '\t')
             tRow.append(cell.string)
+            tRow.append('')
             for sibling in cell.next_siblings:
                 if sibling.string == None:
                     continue
