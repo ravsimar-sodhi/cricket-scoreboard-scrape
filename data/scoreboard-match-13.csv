@@ -10,13 +10,13 @@ TK Curran,c Maxwell b Tewatia,2,3,0,0,66.66
 PP Chawla,c †Pant b Tewatia,0,3,0,0,0.00
 Shivam Mavi,not out,0,0,0,0,-
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-TA Boult,4,1,29,2,7.25,13,6,0,0,0
-CH Morris,4,0,41,2,10.25,11,4,3,1,0
-S Nadeem,4,0,43,1,10.75,7,3,3,0,0
-R Tewatia,3,0,18,3,6.00,10,0,2,0,0
-Mohammed Shami,4,0,53,1,13.25,5,0,6,1,0
-V Shankar,1,0,12,0,12.00,2,1,1,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+TA Boult,4,1,29,2,7.25,0,0
+CH Morris,4,0,41,2,10.25,1,0
+S Nadeem,4,0,43,1,10.75,0,0
+R Tewatia,3,0,18,3,6.00,0,0
+Mohammed Shami,4,0,53,1,13.25,1,0
+V Shankar,1,0,12,0,12.00,0,0
 
 BATSMEN,,R,B,4s,6s,SR
 G Gambhir (c), b Shivam Mavi,8,7,1,0,114.28
@@ -31,11 +31,11 @@ Mohammed Shami,c Russell b Narine,7,6,1,0,116.66
 S Nadeem,not out,6,8,0,0,75.00
 TA Boult,c & b Kuldeep Yadav,0,2,0,0,0.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-PP Chawla,2,0,16,1,8.00,5,1,1,1,0
-AD Russell,2,0,25,1,12.50,5,5,0,3,0
-Shivam Mavi,2,0,14,1,7.00,6,2,0,1,0
-SP Narine,3,0,18,3,6.00,6,2,0,0,0
-TK Curran,2,0,21,1,10.50,4,1,2,0,0
-Kuldeep Yadav,3.2,0,32,3,9.60,6,2,2,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+PP Chawla,2,0,16,1,8.00,1,0
+AD Russell,2,0,25,1,12.50,3,0
+Shivam Mavi,2,0,14,1,7.00,1,0
+SP Narine,3,0,18,3,6.00,0,0
+TK Curran,2,0,21,1,10.50,0,0
+Kuldeep Yadav,3.2,0,32,3,9.60,0,0
 

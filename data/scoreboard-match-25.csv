@@ -7,13 +7,13 @@ Shakib Al Hasan,c Agarwal b Mujeeb Ur Rahman,28,29,3,0,96.55
 YK Pathan,not out,21,19,1,1,110.52
 Mohammad Nabi,c Agarwal b Rajpoot,4,2,1,0,200.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-AS Rajpoot,4,0,14,5,3.50,17,2,0,0,0
-BB Sran,3,0,27,0,9.00,9,5,0,0,1
-R Ashwin,4,0,34,0,8.50,8,1,2,0,0
-MK Tiwary,1,0,10,0,10.00,0,0,0,1,0
-Mujeeb Ur Rahman,4,0,17,1,4.25,11,0,0,1,0
-AJ Tye,4,0,28,0,7.00,8,3,0,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+AS Rajpoot,4,0,14,5,3.50,0,0
+BB Sran,3,0,27,0,9.00,0,1
+R Ashwin,4,0,34,0,8.50,0,0
+MK Tiwary,1,0,10,0,10.00,1,0
+Mujeeb Ur Rahman,4,0,17,1,4.25,1,0
+AJ Tye,4,0,28,0,7.00,0,0
 
 BATSMEN,,R,B,4s,6s,SR
 KL Rahul †, b Rashid Khan,32,26,4,1,123.07
@@ -28,11 +28,11 @@ BB Sran,run out (†Saha),2,5,0,0,40.00
 AS Rajpoot, b Basil Thampi,8,9,1,0,88.88
 Mujeeb Ur Rahman,not out,10,5,2,0,200.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-Sandeep Sharma,4,0,17,2,4.25,13,2,0,0,0
-Mohammad Nabi,2,0,24,0,12.00,4,2,2,0,0
-S Kaul,4,0,25,0,6.25,9,3,0,0,0
-Basil Thampi,2.2,0,14,2,6.00,6,0,1,0,0
-Rashid Khan,4,0,19,3,4.75,11,2,0,0,0
-Shakib Al Hasan,3,0,18,2,6.00,7,0,1,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+Sandeep Sharma,4,0,17,2,4.25,0,0
+Mohammad Nabi,2,0,24,0,12.00,0,0
+S Kaul,4,0,25,0,6.25,0,0
+Basil Thampi,2.2,0,14,2,6.00,0,0
+Rashid Khan,4,0,19,3,4.75,0,0
+Shakib Al Hasan,3,0,18,2,6.00,0,0
 

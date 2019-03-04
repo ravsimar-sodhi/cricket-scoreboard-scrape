@@ -49,6 +49,7 @@ def scrape_scoreboard(url, matchname):
                             continue
                         print(cell.string, end = '\t')
                         tRow.append(cell.string)
+                    tRow = tRow[:6] + tRow[9:]
                     scores.writerow(tRow)
                     print()
             print()

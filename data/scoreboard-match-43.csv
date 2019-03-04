@@ -6,13 +6,13 @@ MS Dhoni (c) †,not out,33,23,1,1,143.47
 SW Billings,run out (†Buttler),27,22,3,0,122.72
 DJ Bravo,not out,1,1,0,0,100.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-K Gowtham,3,0,28,0,9.33,2,4,0,0,0
-Ankit Sharma,1,0,11,0,11.00,1,2,0,0,0
-JC Archer,4,0,42,2,10.50,5,4,0,5,1
-BA Stokes,4,0,31,0,7.75,7,4,0,1,0
-JD Unadkat,4,0,34,0,8.50,8,0,2,4,0
-IS Sodhi,4,0,29,1,7.25,8,0,2,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+K Gowtham,3,0,28,0,9.33,0,0
+Ankit Sharma,1,0,11,0,11.00,0,0
+JC Archer,4,0,42,2,10.50,5,1
+BA Stokes,4,0,31,0,7.75,1,0
+JD Unadkat,4,0,34,0,8.50,4,0
+IS Sodhi,4,0,29,1,7.25,0,0
 
 BATSMEN,,R,B,4s,6s,SR
 JC Buttler †,not out,95,60,11,2,158.33
@@ -24,12 +24,12 @@ STR Binny,c Watson b Bravo,22,17,1,1,129.41
 K Gowtham,c †Dhoni b Willey,13,4,0,2,325.00
 JC Archer,not out,0,0,0,0,-
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-DJ Willey,4,0,47,1,11.75,5,5,2,1,0
-Harbhajan Singh,2,0,29,1,14.50,5,4,2,0,0
-RA Jadeja,4,0,28,1,7.00,8,3,0,0,0
-SN Thakur,4,0,22,1,5.50,14,3,0,1,0
-KV Sharma,1,0,10,0,10.00,2,1,0,0,0
-DJ Bravo,3.5,0,31,1,8.08,10,1,2,0,0
-SR Watson,1,0,9,0,9.00,0,1,0,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+DJ Willey,4,0,47,1,11.75,1,0
+Harbhajan Singh,2,0,29,1,14.50,0,0
+RA Jadeja,4,0,28,1,7.00,0,0
+SN Thakur,4,0,22,1,5.50,1,0
+KV Sharma,1,0,10,0,10.00,0,0
+DJ Bravo,3.5,0,31,1,8.08,0,0
+SR Watson,1,0,9,0,9.00,0,0
 

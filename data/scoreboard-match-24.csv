@@ -10,14 +10,14 @@ Washington Sundar,not out,13,4,1,1,325.00
 UT Yadav,c Billings b Bravo,0,1,0,0,0.00
 Mohammed Siraj,not out,0,0,0,0,-
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-DL Chahar,2,0,20,0,10.00,4,2,1,0,0
-SN Thakur,4,1,46,2,11.50,10,1,5,2,0
-Harbhajan Singh,2,0,24,0,12.00,6,1,3,0,0
-RA Jadeja,2,0,22,0,11.00,4,1,2,0,0
-SR Watson,2,0,21,0,10.50,2,1,1,1,0
-Imran Tahir,4,0,35,2,8.75,5,1,2,0,0
-DJ Bravo,4,1,33,2,8.25,12,2,2,1,0
+Bowling,O,M,R,W,Econ,WD,NB
+DL Chahar,2,0,20,0,10.00,0,0
+SN Thakur,4,1,46,2,11.50,2,0
+Harbhajan Singh,2,0,24,0,12.00,0,0
+RA Jadeja,2,0,22,0,11.00,0,0
+SR Watson,2,0,21,0,10.50,1,0
+Imran Tahir,4,0,35,2,8.75,0,0
+DJ Bravo,4,1,33,2,8.25,1,0
 
 BATSMEN,,R,B,4s,6s,SR
 SR Watson,c Mohammed Siraj b Negi,7,4,0,1,175.00
@@ -28,11 +28,11 @@ RA Jadeja, b Chahal,3,5,0,0,60.00
 MS Dhoni (c) †,not out,70,34,1,7,205.88
 DJ Bravo,not out,14,7,1,1,200.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-P Negi,3,0,36,1,12.00,7,0,5,0,0
-UT Yadav,4,0,23,1,5.75,12,2,1,0,0
-Washington Sundar,1,0,14,0,14.00,2,0,2,0,0
-Mohammed Siraj,4,0,48,0,12.00,4,4,2,4,0
-YS Chahal,4,0,26,2,6.50,11,1,1,2,1
-CJ Anderson,3.4,0,58,0,15.81,2,2,6,2,0
+Bowling,O,M,R,W,Econ,WD,NB
+P Negi,3,0,36,1,12.00,0,0
+UT Yadav,4,0,23,1,5.75,0,0
+Washington Sundar,1,0,14,0,14.00,0,0
+Mohammed Siraj,4,0,48,0,12.00,4,0
+YS Chahal,4,0,26,2,6.50,2,1
+CJ Anderson,3.4,0,58,0,15.81,2,0
 

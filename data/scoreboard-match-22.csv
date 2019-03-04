@@ -9,14 +9,14 @@ R Ashwin (c),c Tewatia b Boult,6,7,0,0,85.71
 AJ Tye, b Boult,3,9,0,0,33.33
 BB Sran,not out,0,1,0,0,0.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-TA Boult,3,0,21,2,7.00,9,3,0,1,0
-Avesh Khan,4,0,36,2,9.00,9,5,1,0,0
-LE Plunkett,4,0,17,3,4.25,12,1,0,1,0
-DT Christian,3,0,17,1,5.66,8,2,0,0,0
-A Mishra,4,0,33,0,8.25,7,1,1,2,0
-GJ Maxwell,1,0,4,0,4.00,2,0,0,0,0
-R Tewatia,1,0,6,0,6.00,1,0,0,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+TA Boult,3,0,21,2,7.00,1,0
+Avesh Khan,4,0,36,2,9.00,0,0
+LE Plunkett,4,0,17,3,4.25,1,0
+DT Christian,3,0,17,1,5.66,0,0
+A Mishra,4,0,33,0,8.25,2,0
+GJ Maxwell,1,0,4,0,4.00,0,0
+R Tewatia,1,0,6,0,6.00,0,0
 
 BATSMEN,,R,B,4s,6s,SR
 PP Shaw, b Rajpoot,22,10,4,0,220.00
@@ -29,10 +29,10 @@ R Tewatia,c †Rahul b Tye,24,21,1,1,114.28
 LE Plunkett,c Nair b Sran,0,1,0,0,0.00
 A Mishra,not out,1,2,0,0,50.00
 
-Bowling,O,M,R,W,Econ,0s,4s,6s,WD,NB
-AS Rajpoot,4,0,23,2,5.75,15,4,0,2,0
-BB Sran,4,0,45,1,11.25,5,4,1,3,0
-AJ Tye,4,0,25,2,6.25,11,0,1,2,0
-R Ashwin,4,0,19,0,4.75,8,1,0,0,0
-Mujeeb Ur Rahman,4,0,25,2,6.25,12,2,1,0,0
+Bowling,O,M,R,W,Econ,WD,NB
+AS Rajpoot,4,0,23,2,5.75,2,0
+BB Sran,4,0,45,1,11.25,3,0
+AJ Tye,4,0,25,2,6.25,2,0
+R Ashwin,4,0,19,0,4.75,0,0
+Mujeeb Ur Rahman,4,0,25,2,6.25,0,0
 
