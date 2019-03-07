@@ -61,11 +61,33 @@ def get_url(url):
             res.append(temp)
     return res
 
-urllist = get_url("http://www.espncricinfo.com/scores/series/8048/season/2018/ipl")
-print(urllist)
-i = 1
-print(len(urllist))
-for x in urllist:
-    name = "scoreboard-match-" + str(i)
-    i += 1
-    scrape_scoreboard(x, name)
+def match_data(url, fname):
+
+    raw = requests.get(url)
+    soup = BeautifulSoup(raw.text, 'html.parser')
+    l = soup.find('table',class_='engineTable')
+    with open(fname, 'w') as data:
+        data = csv.writer(data, delimiter=',',quotechar='"', quoting=csv.QUOTE_MINIMAL) 
+        for row in l.find_all('tr'):
+            tRow = []
+            for cell in row.find_all(['th','td']):
+                if cell.string == None:
+                    continue
+                tRow.append(cell.string)
+            data.writerow(tRow)
+
+
+## Scoreboard data collection
+
+#urllist = get_url("http://www.espncricinfo.com/scores/series/8048/season/2018/ipl")
+#print(urllist)
+#i = 1
+#print(len(urllist))
+#for x in urllist:
+#    name = "scoreboard-match-" + str(i)
+#    i += 1
+#    scrape_scoreboard(x, name)
+
+## Match winner data
+url = "http://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=12210;type=tournament"
+match_data(url, "match-data.csv")
