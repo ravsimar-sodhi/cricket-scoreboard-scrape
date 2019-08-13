@@ -1,11 +1,14 @@
-{"pattern":"Mum Indians","label":"TEAM"}
-{"pattern":"Kings XI","label":"TEAM"}
-{"pattern":"KKR","label":"TEAM"}
-{"pattern":"Sunrisers","label":"TEAM"}
-{"pattern":"Super Kings","label":"TEAM"}
-{"pattern":"Royals","label":"TEAM"}
-{"pattern":"RCB","label":"TEAM"}
-{"pattern":"Daredevils","label":"TEAM"}
+{"pattern":[{"TEXT":{"REGEX":"^([0-2][0-9]|(3)[0-1])(\\/)(((0)[0-9])|((1)[0-2]))(\\/)\\d{4}$"}}],"label":"DATE"}
+{"pattern":"Mumbai","label":"GROUND"}
+{"pattern":"Mohali","label":"GROUND"}
+{"pattern":"Kolkata","label":"GROUND"}
+{"pattern":"Hyderabad (Deccan)","label":"GROUND"}
+{"pattern":"Chennai","label":"GROUND"}
+{"pattern":"Jaipur","label":"GROUND"}
+{"pattern":"Bengaluru","label":"GROUND"}
+{"pattern":"Pune","label":"GROUND"}
+{"pattern":"Delhi","label":"GROUND"}
+{"pattern":"Indore","label":"GROUND"}
 {"pattern":"JJ Bumrah","label":"PLAYER"}
 {"pattern":"K Khejroliya","label":"PLAYER"}
 {"pattern":"SA Yadav","label":"PLAYER"}
@@ -156,13 +159,11 @@
 {"pattern":"B Laughlin","label":"PLAYER"}
 {"pattern":"S Gopal","label":"PLAYER"}
 {"pattern":"S Dhawan","label":"PLAYER"}
-{"pattern":"Mumbai","label":"GROUND"}
-{"pattern":"Mohali","label":"GROUND"}
-{"pattern":"Kolkata","label":"GROUND"}
-{"pattern":"Hyderabad (Deccan)","label":"GROUND"}
-{"pattern":"Chennai","label":"GROUND"}
-{"pattern":"Jaipur","label":"GROUND"}
-{"pattern":"Bengaluru","label":"GROUND"}
-{"pattern":"Pune","label":"GROUND"}
-{"pattern":"Delhi","label":"GROUND"}
-{"pattern":"Indore","label":"GROUND"}
+{"pattern":"Mum Indians","label":"TEAM"}
+{"pattern":"Kings XI","label":"TEAM"}
+{"pattern":"KKR","label":"TEAM"}
+{"pattern":"Sunrisers","label":"TEAM"}
+{"pattern":"Super Kings","label":"TEAM"}
+{"pattern":"Royals","label":"TEAM"}
+{"pattern":"RCB","label":"TEAM"}
+{"pattern":"Daredevils","label":"TEAM"}
