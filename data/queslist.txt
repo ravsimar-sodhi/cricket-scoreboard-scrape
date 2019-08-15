@@ -1,7 +1,7 @@
 Who was the winner between Mum Indians and Super Kings at Mumbai?
 Who was the loser between Mum Indians and Super Kings at Mumbai?
 Who was the winner between Mum Indians and Super Kings on 07/04/2018?
-Who was the winner between Mum Indians and Super Kings on 07/04/2018?
+Who was the loser between Mum Indians and Super Kings on 07/04/2018?
 Where was the match between Mum Indians & Super Kings held at Mumbai?
 When was the match between Mum Indians & Super Kings held on 07/04/2018?
 How many runs were scored by RG Sharma in the match between Mum Indians and Super Kings at Mumbai?
@@ -253,7 +253,7 @@ How many wide balls did M Markande bowl in the match between Mum Indians and Sup
 Who was the winner between Kings XI and Daredevils at Mohali?
 Who was the loser between Kings XI and Daredevils at Mohali?
 Who was the winner between Kings XI and Daredevils on 08/04/2018?
-Who was the winner between Kings XI and Daredevils on 08/04/2018?
+Who was the loser between Kings XI and Daredevils on 08/04/2018?
 Where was the match between Kings XI & Daredevils held at Mohali?
 When was the match between Kings XI & Daredevils held on 08/04/2018?
 How many runs were scored by C Munro in the match between Kings XI and Daredevils at Mohali?
@@ -487,7 +487,7 @@ How many wide balls did R Tewatia bowl in the match between Kings XI and Daredev
 Who was the winner between KKR and RCB at Kolkata?
 Who was the loser between KKR and RCB at Kolkata?
 Who was the winner between KKR and RCB on 08/04/2018?
-Who was the winner between KKR and RCB on 08/04/2018?
+Who was the loser between KKR and RCB on 08/04/2018?
 Where was the match between KKR & RCB held at Kolkata?
 When was the match between KKR & RCB held on 08/04/2018?
 How many runs were scored by BB McCullum in the match between KKR and RCB at Kolkata?
@@ -733,7 +733,7 @@ How many wide balls did K Khejroliya bowl in the match between KKR and RCB on 08
 Who was the winner between Sunrisers and Royals at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and Royals at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and Royals on 09/04/2018?
-Who was the winner between Sunrisers and Royals on 09/04/2018?
+Who was the loser between Sunrisers and Royals on 09/04/2018?
 Where was the match between Sunrisers & Royals held at Hyderabad (Deccan)?
 When was the match between Sunrisers & Royals held on 09/04/2018?
 How many runs were scored by AM Rahane in the match between Sunrisers and Royals at Hyderabad (Deccan)?
@@ -967,7 +967,7 @@ How many wide balls did DJM Short bowl in the match between Sunrisers and Royals
 Who was the winner between Super Kings and KKR at Chennai?
 Who was the loser between Super Kings and KKR at Chennai?
 Who was the winner between Super Kings and KKR on 10/04/2018?
-Who was the winner between Super Kings and KKR on 10/04/2018?
+Who was the loser between Super Kings and KKR on 10/04/2018?
 Where was the match between Super Kings & KKR held at Chennai?
 When was the match between Super Kings & KKR held on 10/04/2018?
 How many runs were scored by CA Lynn in the match between Super Kings and KKR at Chennai?
@@ -1219,7 +1219,7 @@ How many wide balls did Kuldeep Yadav bowl in the match between Super Kings and 
 Who was the winner between Royals and Daredevils at Jaipur?
 Who was the loser between Royals and Daredevils at Jaipur?
 Who was the winner between Royals and Daredevils on 11/04/2018?
-Who was the winner between Royals and Daredevils on 11/04/2018?
+Who was the loser between Royals and Daredevils on 11/04/2018?
 Where was the match between Royals & Daredevils held at Jaipur?
 When was the match between Royals & Daredevils held on 11/04/2018?
 How many runs were scored by AM Rahane in the match between Royals and Daredevils at Jaipur?
@@ -1411,7 +1411,7 @@ How many wide balls did B Laughlin bowl in the match between Royals and Daredevi
 Who was the winner between Sunrisers and Mum Indians at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and Mum Indians at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and Mum Indians on 12/04/2018?
-Who was the winner between Sunrisers and Mum Indians on 12/04/2018?
+Who was the loser between Sunrisers and Mum Indians on 12/04/2018?
 Where was the match between Sunrisers & Mum Indians held at Hyderabad (Deccan)?
 When was the match between Sunrisers & Mum Indians held on 12/04/2018?
 How many runs were scored by RG Sharma in the match between Sunrisers and Mum Indians at Hyderabad (Deccan)?
@@ -1675,7 +1675,7 @@ How many wide balls did Mustafizur Rahman bowl in the match between Sunrisers an
 Who was the winner between RCB and Kings XI at Bengaluru?
 Who was the loser between RCB and Kings XI at Bengaluru?
 Who was the winner between RCB and Kings XI on 13/04/2018?
-Who was the winner between RCB and Kings XI on 13/04/2018?
+Who was the loser between RCB and Kings XI on 13/04/2018?
 Where was the match between RCB & Kings XI held at Bengaluru?
 When was the match between RCB & Kings XI held on 13/04/2018?
 How many runs were scored by KL Rahul in the match between RCB and Kings XI at Bengaluru?
@@ -1915,7 +1915,7 @@ How many wide balls did MM Sharma bowl in the match between RCB and Kings XI on 
 Who was the winner between Mum Indians and Daredevils at Mumbai?
 Who was the loser between Mum Indians and Daredevils at Mumbai?
 Who was the winner between Mum Indians and Daredevils on 14/04/2018?
-Who was the winner between Mum Indians and Daredevils on 14/04/2018?
+Who was the loser between Mum Indians and Daredevils on 14/04/2018?
 Where was the match between Mum Indians & Daredevils held at Mumbai?
 When was the match between Mum Indians & Daredevils held on 14/04/2018?
 How many runs were scored by SA Yadav in the match between Mum Indians and Daredevils at Mumbai?
@@ -2149,7 +2149,7 @@ How many wide balls did KH Pandya bowl in the match between Mum Indians and Dare
 Who was the winner between KKR and Sunrisers at Kolkata?
 Who was the loser between KKR and Sunrisers at Kolkata?
 Who was the winner between KKR and Sunrisers on 14/04/2018?
-Who was the winner between KKR and Sunrisers on 14/04/2018?
+Who was the loser between KKR and Sunrisers on 14/04/2018?
 Where was the match between KKR & Sunrisers held at Kolkata?
 When was the match between KKR & Sunrisers held on 14/04/2018?
 How many runs were scored by RV Uthappa in the match between KKR and Sunrisers at Kolkata?
@@ -2383,7 +2383,7 @@ How many wide balls did Shivam Mavi bowl in the match between KKR and Sunrisers 
 Who was the winner between RCB and Royals at Bengaluru?
 Who was the loser between RCB and Royals at Bengaluru?
 Who was the winner between RCB and Royals on 15/04/2018?
-Who was the winner between RCB and Royals on 15/04/2018?
+Who was the loser between RCB and Royals on 15/04/2018?
 Where was the match between RCB & Royals held at Bengaluru?
 When was the match between RCB & Royals held on 15/04/2018?
 How many runs were scored by AM Rahane in the match between RCB and Royals at Bengaluru?
@@ -2629,7 +2629,7 @@ How many wide balls did B Laughlin bowl in the match between RCB and Royals on 1
 Who was the winner between Kings XI and Super Kings at Mohali?
 Who was the loser between Kings XI and Super Kings at Mohali?
 Who was the winner between Kings XI and Super Kings on 15/04/2018?
-Who was the winner between Kings XI and Super Kings on 15/04/2018?
+Who was the loser between Kings XI and Super Kings on 15/04/2018?
 Where was the match between Kings XI & Super Kings held at Mohali?
 When was the match between Kings XI & Super Kings held on 15/04/2018?
 How many runs were scored by KL Rahul in the match between Kings XI and Super Kings at Mohali?
@@ -2875,7 +2875,7 @@ How many wide balls did Yuvraj Singh bowl in the match between Kings XI and Supe
 Who was the winner between KKR and Daredevils at Kolkata?
 Who was the loser between KKR and Daredevils at Kolkata?
 Who was the winner between KKR and Daredevils on 16/04/2018?
-Who was the winner between KKR and Daredevils on 16/04/2018?
+Who was the loser between KKR and Daredevils on 16/04/2018?
 Where was the match between KKR & Daredevils held at Kolkata?
 When was the match between KKR & Daredevils held on 16/04/2018?
 How many runs were scored by CA Lynn in the match between KKR and Daredevils at Kolkata?
@@ -3151,7 +3151,7 @@ How many wide balls did Kuldeep Yadav bowl in the match between KKR and Daredevi
 Who was the winner between Mum Indians and RCB at Mumbai?
 Who was the loser between Mum Indians and RCB at Mumbai?
 Who was the winner between Mum Indians and RCB on 17/04/2018?
-Who was the winner between Mum Indians and RCB on 17/04/2018?
+Who was the loser between Mum Indians and RCB on 17/04/2018?
 Where was the match between Mum Indians & RCB held at Mumbai?
 When was the match between Mum Indians & RCB held on 17/04/2018?
 How many runs were scored by SA Yadav in the match between Mum Indians and RCB at Mumbai?
@@ -3409,7 +3409,7 @@ How many wide balls did HH Pandya bowl in the match between Mum Indians and RCB 
 Who was the winner between Royals and KKR at Jaipur?
 Who was the loser between Royals and KKR at Jaipur?
 Who was the winner between Royals and KKR on 18/04/2018?
-Who was the winner between Royals and KKR on 18/04/2018?
+Who was the loser between Royals and KKR on 18/04/2018?
 Where was the match between Royals & KKR held at Jaipur?
 When was the match between Royals & KKR held on 18/04/2018?
 How many runs were scored by AM Rahane in the match between Royals and KKR at Jaipur?
@@ -3649,7 +3649,7 @@ How many wide balls did BA Stokes bowl in the match between Royals and KKR on 18
 Who was the winner between Kings XI and Sunrisers at Mohali?
 Who was the loser between Kings XI and Sunrisers at Mohali?
 Who was the winner between Kings XI and Sunrisers on 19/04/2018?
-Who was the winner between Kings XI and Sunrisers on 19/04/2018?
+Who was the loser between Kings XI and Sunrisers on 19/04/2018?
 Where was the match between Kings XI & Sunrisers held at Mohali?
 When was the match between Kings XI & Sunrisers held on 19/04/2018?
 How many runs were scored by KL Rahul in the match between Kings XI and Sunrisers at Mohali?
@@ -3859,7 +3859,7 @@ How many wide balls did Mujeeb Ur Rahman bowl in the match between Kings XI and 
 Who was the winner between Super Kings and Royals at Pune?
 Who was the loser between Super Kings and Royals at Pune?
 Who was the winner between Super Kings and Royals on 20/04/2018?
-Who was the winner between Super Kings and Royals on 20/04/2018?
+Who was the loser between Super Kings and Royals on 20/04/2018?
 Where was the match between Super Kings & Royals held at Pune?
 When was the match between Super Kings & Royals held on 20/04/2018?
 How many runs were scored by SR Watson in the match between Super Kings and Royals at Pune?
@@ -4129,7 +4129,7 @@ How many wide balls did RA Jadeja bowl in the match between Super Kings and Roya
 Who was the winner between KKR and Kings XI at Kolkata?
 Who was the loser between KKR and Kings XI at Kolkata?
 Who was the winner between KKR and Kings XI on 21/04/2018?
-Who was the winner between KKR and Kings XI on 21/04/2018?
+Who was the loser between KKR and Kings XI on 21/04/2018?
 Where was the match between KKR & Kings XI held at Kolkata?
 When was the match between KKR & Kings XI held on 21/04/2018?
 How many runs were scored by CA Lynn in the match between KKR and Kings XI at Kolkata?
@@ -4363,7 +4363,7 @@ How many wide balls did TK Curran bowl in the match between KKR and Kings XI on 
 Who was the winner between RCB and Daredevils at Bengaluru?
 Who was the loser between RCB and Daredevils at Bengaluru?
 Who was the winner between RCB and Daredevils on 21/04/2018?
-Who was the winner between RCB and Daredevils on 21/04/2018?
+Who was the loser between RCB and Daredevils on 21/04/2018?
 Where was the match between RCB & Daredevils held at Bengaluru?
 When was the match between RCB & Daredevils held on 21/04/2018?
 How many runs were scored by JJ Roy in the match between RCB and Daredevils at Bengaluru?
@@ -4591,7 +4591,7 @@ How many wide balls did R Tewatia bowl in the match between RCB and Daredevils o
 Who was the winner between Sunrisers and Super Kings at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and Super Kings at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and Super Kings on 22/04/2018?
-Who was the winner between Sunrisers and Super Kings on 22/04/2018?
+Who was the loser between Sunrisers and Super Kings on 22/04/2018?
 Where was the match between Sunrisers & Super Kings held at Hyderabad (Deccan)?
 When was the match between Sunrisers & Super Kings held on 22/04/2018?
 How many runs were scored by SR Watson in the match between Sunrisers and Super Kings at Hyderabad (Deccan)?
@@ -4819,7 +4819,7 @@ How many wide balls did DJ Bravo bowl in the match between Sunrisers and Super K
 Who was the winner between Royals and Mum Indians at Jaipur?
 Who was the loser between Royals and Mum Indians at Jaipur?
 Who was the winner between Royals and Mum Indians on 22/04/2018?
-Who was the winner between Royals and Mum Indians on 22/04/2018?
+Who was the loser between Royals and Mum Indians on 22/04/2018?
 Where was the match between Royals & Mum Indians held at Jaipur?
 When was the match between Royals & Mum Indians held on 22/04/2018?
 How many runs were scored by SA Yadav in the match between Royals and Mum Indians at Jaipur?
@@ -5077,7 +5077,7 @@ How many wide balls did HH Pandya bowl in the match between Royals and Mum India
 Who was the winner between Daredevils and Kings XI at Delhi?
 Who was the loser between Daredevils and Kings XI at Delhi?
 Who was the winner between Daredevils and Kings XI on 23/04/2018?
-Who was the winner between Daredevils and Kings XI on 23/04/2018?
+Who was the loser between Daredevils and Kings XI on 23/04/2018?
 Where was the match between Daredevils & Kings XI held at Delhi?
 When was the match between Daredevils & Kings XI held on 23/04/2018?
 How many runs were scored by KL Rahul in the match between Daredevils and Kings XI at Delhi?
@@ -5335,7 +5335,7 @@ How many wide balls did Mujeeb Ur Rahman bowl in the match between Daredevils an
 Who was the winner between Mum Indians and Sunrisers at Mumbai?
 Who was the loser between Mum Indians and Sunrisers at Mumbai?
 Who was the winner between Mum Indians and Sunrisers on 24/04/2018?
-Who was the winner between Mum Indians and Sunrisers on 24/04/2018?
+Who was the loser between Mum Indians and Sunrisers on 24/04/2018?
 Where was the match between Mum Indians & Sunrisers held at Mumbai?
 When was the match between Mum Indians & Sunrisers held on 24/04/2018?
 How many runs were scored by S Dhawan in the match between Mum Indians and Sunrisers at Mumbai?
@@ -5617,7 +5617,7 @@ How many wide balls did Basil Thampi bowl in the match between Mum Indians and S
 Who was the winner between RCB and Super Kings at Bengaluru?
 Who was the loser between RCB and Super Kings at Bengaluru?
 Who was the winner between RCB and Super Kings on 25/04/2018?
-Who was the winner between RCB and Super Kings on 25/04/2018?
+Who was the loser between RCB and Super Kings on 25/04/2018?
 Where was the match between RCB & Super Kings held at Bengaluru?
 When was the match between RCB & Super Kings held on 25/04/2018?
 How many runs were scored by Q de Kock in the match between RCB and Super Kings at Bengaluru?
@@ -5881,7 +5881,7 @@ How many wide balls did CJ Anderson bowl in the match between RCB and Super King
 Who was the winner between Sunrisers and Kings XI at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and Kings XI at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and Kings XI on 26/04/2018?
-Who was the winner between Sunrisers and Kings XI on 26/04/2018?
+Who was the loser between Sunrisers and Kings XI on 26/04/2018?
 Where was the match between Sunrisers & Kings XI held at Hyderabad (Deccan)?
 When was the match between Sunrisers & Kings XI held on 26/04/2018?
 How many runs were scored by S Dhawan in the match between Sunrisers and Kings XI at Hyderabad (Deccan)?
@@ -6139,7 +6139,7 @@ How many wide balls did Shakib Al Hasan bowl in the match between Sunrisers and 
 Who was the winner between Daredevils and KKR at Delhi?
 Who was the loser between Daredevils and KKR at Delhi?
 Who was the winner between Daredevils and KKR on 27/04/2018?
-Who was the winner between Daredevils and KKR on 27/04/2018?
+Who was the loser between Daredevils and KKR on 27/04/2018?
 Where was the match between Daredevils & KKR held at Delhi?
 When was the match between Daredevils & KKR held on 27/04/2018?
 How many runs were scored by PP Shaw in the match between Daredevils and KKR at Delhi?
@@ -6403,7 +6403,7 @@ How many wide balls did R Tewatia bowl in the match between Daredevils and KKR o
 Who was the winner between Super Kings and Mum Indians at Pune?
 Who was the loser between Super Kings and Mum Indians at Pune?
 Who was the winner between Super Kings and Mum Indians on 28/04/2018?
-Who was the winner between Super Kings and Mum Indians on 28/04/2018?
+Who was the loser between Super Kings and Mum Indians on 28/04/2018?
 Where was the match between Super Kings & Mum Indians held at Pune?
 When was the match between Super Kings & Mum Indians held on 28/04/2018?
 How many runs were scored by SR Watson in the match between Super Kings and Mum Indians at Pune?
@@ -6619,7 +6619,7 @@ How many wide balls did DJ Bravo bowl in the match between Super Kings and Mum I
 Who was the winner between Royals and Sunrisers at Jaipur?
 Who was the loser between Royals and Sunrisers at Jaipur?
 Who was the winner between Royals and Sunrisers on 29/04/2018?
-Who was the winner between Royals and Sunrisers on 29/04/2018?
+Who was the loser between Royals and Sunrisers on 29/04/2018?
 Where was the match between Royals & Sunrisers held at Jaipur?
 When was the match between Royals & Sunrisers held on 29/04/2018?
 How many runs were scored by AD Hales in the match between Royals and Sunrisers at Jaipur?
@@ -6883,7 +6883,7 @@ How many wide balls did YK Pathan bowl in the match between Royals and Sunrisers
 Who was the winner between RCB and KKR at Bengaluru?
 Who was the loser between RCB and KKR at Bengaluru?
 Who was the winner between RCB and KKR on 29/04/2018?
-Who was the winner between RCB and KKR on 29/04/2018?
+Who was the loser between RCB and KKR on 29/04/2018?
 Where was the match between RCB & KKR held at Bengaluru?
 When was the match between RCB & KKR held on 29/04/2018?
 How many runs were scored by Q de Kock in the match between RCB and KKR at Bengaluru?
@@ -7099,7 +7099,7 @@ How many wide balls did M Ashwin bowl in the match between RCB and KKR on 29/04/
 Who was the winner between Super Kings and Daredevils at Pune?
 Who was the loser between Super Kings and Daredevils at Pune?
 Who was the winner between Super Kings and Daredevils on 30/04/2018?
-Who was the winner between Super Kings and Daredevils on 30/04/2018?
+Who was the loser between Super Kings and Daredevils on 30/04/2018?
 Where was the match between Super Kings & Daredevils held at Pune?
 When was the match between Super Kings & Daredevils held on 30/04/2018?
 How many runs were scored by SR Watson in the match between Super Kings and Daredevils at Pune?
@@ -7339,7 +7339,7 @@ How many wide balls did DJ Bravo bowl in the match between Super Kings and Dared
 Who was the winner between RCB and Mum Indians at Bengaluru?
 Who was the loser between RCB and Mum Indians at Bengaluru?
 Who was the winner between RCB and Mum Indians on 01/05/2018?
-Who was the winner between RCB and Mum Indians on 01/05/2018?
+Who was the loser between RCB and Mum Indians on 01/05/2018?
 Where was the match between RCB & Mum Indians held at Bengaluru?
 When was the match between RCB & Mum Indians held on 01/05/2018?
 How many runs were scored by M Vohra in the match between RCB and Mum Indians at Bengaluru?
@@ -7597,7 +7597,7 @@ How many wide balls did C de Grandhomme bowl in the match between RCB and Mum In
 Who was the winner between Daredevils and Royals at Delhi?
 Who was the loser between Daredevils and Royals at Delhi?
 Who was the winner between Daredevils and Royals on 02/05/2018?
-Who was the winner between Daredevils and Royals on 02/05/2018?
+Who was the loser between Daredevils and Royals on 02/05/2018?
 Where was the match between Daredevils & Royals held at Delhi?
 When was the match between Daredevils & Royals held on 02/05/2018?
 How many runs were scored by PP Shaw in the match between Daredevils and Royals at Delhi?
@@ -7831,7 +7831,7 @@ How many wide balls did GJ Maxwell bowl in the match between Daredevils and Roya
 Who was the winner between KKR and Super Kings at Kolkata?
 Who was the loser between KKR and Super Kings at Kolkata?
 Who was the winner between KKR and Super Kings on 03/05/2018?
-Who was the winner between KKR and Super Kings on 03/05/2018?
+Who was the loser between KKR and Super Kings on 03/05/2018?
 Where was the match between KKR & Super Kings held at Kolkata?
 When was the match between KKR & Super Kings held on 03/05/2018?
 How many runs were scored by SR Watson in the match between KKR and Super Kings at Kolkata?
@@ -8071,7 +8071,7 @@ How many wide balls did KV Sharma bowl in the match between KKR and Super Kings 
 Who was the winner between Kings XI and Mum Indians at Indore?
 Who was the loser between Kings XI and Mum Indians at Indore?
 Who was the winner between Kings XI and Mum Indians on 04/05/2018?
-Who was the winner between Kings XI and Mum Indians on 04/05/2018?
+Who was the loser between Kings XI and Mum Indians on 04/05/2018?
 Where was the match between Kings XI & Mum Indians held at Indore?
 When was the match between Kings XI & Mum Indians held on 04/05/2018?
 How many runs were scored by KL Rahul in the match between Kings XI and Mum Indians at Indore?
@@ -8317,7 +8317,7 @@ How many wide balls did MP Stoinis bowl in the match between Kings XI and Mum In
 Who was the winner between Super Kings and RCB at Pune?
 Who was the loser between Super Kings and RCB at Pune?
 Who was the winner between Super Kings and RCB on 05/05/2018?
-Who was the winner between Super Kings and RCB on 05/05/2018?
+Who was the loser between Super Kings and RCB on 05/05/2018?
 Where was the match between Super Kings & RCB held at Pune?
 When was the match between Super Kings & RCB held on 05/05/2018?
 How many runs were scored by PA Patel in the match between Super Kings and RCB at Pune?
@@ -8563,7 +8563,7 @@ How many wide balls did M Ashwin bowl in the match between Super Kings and RCB o
 Who was the winner between Sunrisers and Daredevils at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and Daredevils at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and Daredevils on 05/05/2018?
-Who was the winner between Sunrisers and Daredevils on 05/05/2018?
+Who was the loser between Sunrisers and Daredevils on 05/05/2018?
 Where was the match between Sunrisers & Daredevils held at Hyderabad (Deccan)?
 When was the match between Sunrisers & Daredevils held on 05/05/2018?
 How many runs were scored by PP Shaw in the match between Sunrisers and Daredevils at Hyderabad (Deccan)?
@@ -8773,7 +8773,7 @@ How many wide balls did DT Christian bowl in the match between Sunrisers and Dar
 Who was the winner between Mum Indians and KKR at Mumbai?
 Who was the loser between Mum Indians and KKR at Mumbai?
 Who was the winner between Mum Indians and KKR on 06/05/2018?
-Who was the winner between Mum Indians and KKR on 06/05/2018?
+Who was the loser between Mum Indians and KKR on 06/05/2018?
 Where was the match between Mum Indians & KKR held at Mumbai?
 When was the match between Mum Indians & KKR held on 06/05/2018?
 How many runs were scored by SA Yadav in the match between Mum Indians and KKR at Mumbai?
@@ -9019,7 +9019,7 @@ How many wide balls did BCJ Cutting bowl in the match between Mum Indians and KK
 Who was the winner between Kings XI and Royals at Indore?
 Who was the loser between Kings XI and Royals at Indore?
 Who was the winner between Kings XI and Royals on 06/05/2018?
-Who was the winner between Kings XI and Royals on 06/05/2018?
+Who was the loser between Kings XI and Royals on 06/05/2018?
 Where was the match between Kings XI & Royals held at Indore?
 When was the match between Kings XI & Royals held on 06/05/2018?
 How many runs were scored by JC Buttler in the match between Kings XI and Royals at Indore?
@@ -9265,7 +9265,7 @@ How many wide balls did Anureet Singh bowl in the match between Kings XI and Roy
 Who was the winner between Sunrisers and RCB at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and RCB at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and RCB on 07/05/2018?
-Who was the winner between Sunrisers and RCB on 07/05/2018?
+Who was the loser between Sunrisers and RCB on 07/05/2018?
 Where was the match between Sunrisers & RCB held at Hyderabad (Deccan)?
 When was the match between Sunrisers & RCB held on 07/05/2018?
 How many runs were scored by AD Hales in the match between Sunrisers and RCB at Hyderabad (Deccan)?
@@ -9511,7 +9511,7 @@ How many wide balls did Rashid Khan bowl in the match between Sunrisers and RCB 
 Who was the winner between Royals and Kings XI at Jaipur?
 Who was the loser between Royals and Kings XI at Jaipur?
 Who was the winner between Royals and Kings XI on 08/05/2018?
-Who was the winner between Royals and Kings XI on 08/05/2018?
+Who was the loser between Royals and Kings XI on 08/05/2018?
 Where was the match between Royals & Kings XI held at Jaipur?
 When was the match between Royals & Kings XI held on 08/05/2018?
 How many runs were scored by AM Rahane in the match between Royals and Kings XI at Jaipur?
@@ -9781,7 +9781,7 @@ How many wide balls did Anureet Singh bowl in the match between Royals and Kings
 Who was the winner between KKR and Mum Indians at Kolkata?
 Who was the loser between KKR and Mum Indians at Kolkata?
 Who was the winner between KKR and Mum Indians on 09/05/2018?
-Who was the winner between KKR and Mum Indians on 09/05/2018?
+Who was the loser between KKR and Mum Indians on 09/05/2018?
 Where was the match between KKR & Mum Indians held at Kolkata?
 When was the match between KKR & Mum Indians held on 09/05/2018?
 How many runs were scored by SA Yadav in the match between KKR and Mum Indians at Kolkata?
@@ -10045,7 +10045,7 @@ How many wide balls did BCJ Cutting bowl in the match between KKR and Mum Indian
 Who was the winner between Daredevils and Sunrisers at Delhi?
 Who was the loser between Daredevils and Sunrisers at Delhi?
 Who was the winner between Daredevils and Sunrisers on 10/05/2018?
-Who was the winner between Daredevils and Sunrisers on 10/05/2018?
+Who was the loser between Daredevils and Sunrisers on 10/05/2018?
 Where was the match between Daredevils & Sunrisers held at Delhi?
 When was the match between Daredevils & Sunrisers held on 10/05/2018?
 How many runs were scored by PP Shaw in the match between Daredevils and Sunrisers at Delhi?
@@ -10255,7 +10255,7 @@ How many wide balls did GJ Maxwell bowl in the match between Daredevils and Sunr
 Who was the winner between Royals and Super Kings at Jaipur?
 Who was the loser between Royals and Super Kings at Jaipur?
 Who was the winner between Royals and Super Kings on 11/05/2018?
-Who was the winner between Royals and Super Kings on 11/05/2018?
+Who was the loser between Royals and Super Kings on 11/05/2018?
 Where was the match between Royals & Super Kings held at Jaipur?
 When was the match between Royals & Super Kings held on 11/05/2018?
 How many runs were scored by SR Watson in the match between Royals and Super Kings at Jaipur?
@@ -10501,7 +10501,7 @@ How many wide balls did SR Watson bowl in the match between Royals and Super Kin
 Who was the winner between Kings XI and KKR at Indore?
 Who was the loser between Kings XI and KKR at Indore?
 Who was the winner between Kings XI and KKR on 12/05/2018?
-Who was the winner between Kings XI and KKR on 12/05/2018?
+Who was the loser between Kings XI and KKR on 12/05/2018?
 Where was the match between Kings XI & KKR held at Indore?
 When was the match between Kings XI & KKR held on 12/05/2018?
 How many runs were scored by CA Lynn in the match between Kings XI and KKR at Indore?
@@ -10759,7 +10759,7 @@ How many wide balls did PP Chawla bowl in the match between Kings XI and KKR on 
 Who was the winner between Daredevils and RCB at Delhi?
 Who was the loser between Daredevils and RCB at Delhi?
 Who was the winner between Daredevils and RCB on 12/05/2018?
-Who was the winner between Daredevils and RCB on 12/05/2018?
+Who was the loser between Daredevils and RCB on 12/05/2018?
 Where was the match between Daredevils & RCB held at Delhi?
 When was the match between Daredevils & RCB held on 12/05/2018?
 How many runs were scored by PP Shaw in the match between Daredevils and RCB at Delhi?
@@ -10975,7 +10975,7 @@ How many wide balls did A Mishra bowl in the match between Daredevils and RCB on
 Who was the winner between Super Kings and Sunrisers at Pune?
 Who was the loser between Super Kings and Sunrisers at Pune?
 Who was the winner between Super Kings and Sunrisers on 13/05/2018?
-Who was the winner between Super Kings and Sunrisers on 13/05/2018?
+Who was the loser between Super Kings and Sunrisers on 13/05/2018?
 Where was the match between Super Kings & Sunrisers held at Pune?
 When was the match between Super Kings & Sunrisers held on 13/05/2018?
 How many runs were scored by S Dhawan in the match between Super Kings and Sunrisers at Pune?
@@ -11185,7 +11185,7 @@ How many wide balls did S Kaul bowl in the match between Super Kings and Sunrise
 Who was the winner between Mum Indians and Royals at Mumbai?
 Who was the loser between Mum Indians and Royals at Mumbai?
 Who was the winner between Mum Indians and Royals on 13/05/2018?
-Who was the winner between Mum Indians and Royals on 13/05/2018?
+Who was the loser between Mum Indians and Royals on 13/05/2018?
 Where was the match between Mum Indians & Royals held at Mumbai?
 When was the match between Mum Indians & Royals held on 13/05/2018?
 How many runs were scored by SA Yadav in the match between Mum Indians and Royals at Mumbai?
@@ -11401,7 +11401,7 @@ How many wide balls did M Markande bowl in the match between Mum Indians and Roy
 Who was the winner between Kings XI and RCB at Indore?
 Who was the loser between Kings XI and RCB at Indore?
 Who was the winner between Kings XI and RCB on 14/05/2018?
-Who was the winner between Kings XI and RCB on 14/05/2018?
+Who was the loser between Kings XI and RCB on 14/05/2018?
 Where was the match between Kings XI & RCB held at Indore?
 When was the match between Kings XI & RCB held on 14/05/2018?
 How many runs were scored by KL Rahul in the match between Kings XI and RCB at Indore?
@@ -11617,7 +11617,7 @@ How many wide balls did MP Stoinis bowl in the match between Kings XI and RCB on
 Who was the winner between KKR and Royals at Kolkata?
 Who was the loser between KKR and Royals at Kolkata?
 Who was the winner between KKR and Royals on 15/05/2018?
-Who was the winner between KKR and Royals on 15/05/2018?
+Who was the loser between KKR and Royals on 15/05/2018?
 Where was the match between KKR & Royals held at Kolkata?
 When was the match between KKR & Royals held on 15/05/2018?
 How many runs were scored by RA Tripathi in the match between KKR and Royals at Kolkata?
@@ -11857,7 +11857,7 @@ How many wide balls did Anureet Singh bowl in the match between KKR and Royals o
 Who was the winner between Mum Indians and Kings XI at Mumbai?
 Who was the loser between Mum Indians and Kings XI at Mumbai?
 Who was the winner between Mum Indians and Kings XI on 16/05/2018?
-Who was the winner between Mum Indians and Kings XI on 16/05/2018?
+Who was the loser between Mum Indians and Kings XI on 16/05/2018?
 Where was the match between Mum Indians & Kings XI held at Mumbai?
 When was the match between Mum Indians & Kings XI held on 16/05/2018?
 How many runs were scored by SA Yadav in the match between Mum Indians and Kings XI at Mumbai?
@@ -12109,7 +12109,7 @@ How many wide balls did BCJ Cutting bowl in the match between Mum Indians and Ki
 Who was the winner between RCB and Sunrisers at Bengaluru?
 Who was the loser between RCB and Sunrisers at Bengaluru?
 Who was the winner between RCB and Sunrisers on 17/05/2018?
-Who was the winner between RCB and Sunrisers on 17/05/2018?
+Who was the loser between RCB and Sunrisers on 17/05/2018?
 Where was the match between RCB & Sunrisers held at Bengaluru?
 When was the match between RCB & Sunrisers held on 17/05/2018?
 How many runs were scored by PA Patel in the match between RCB and Sunrisers at Bengaluru?
@@ -12325,7 +12325,7 @@ How many wide balls did C de Grandhomme bowl in the match between RCB and Sunris
 Who was the winner between Daredevils and Super Kings at Delhi?
 Who was the loser between Daredevils and Super Kings at Delhi?
 Who was the winner between Daredevils and Super Kings on 18/05/2018?
-Who was the winner between Daredevils and Super Kings on 18/05/2018?
+Who was the loser between Daredevils and Super Kings on 18/05/2018?
 Where was the match between Daredevils & Super Kings held at Delhi?
 When was the match between Daredevils & Super Kings held on 18/05/2018?
 How many runs were scored by PP Shaw in the match between Daredevils and Super Kings at Delhi?
@@ -12565,7 +12565,7 @@ How many wide balls did GJ Maxwell bowl in the match between Daredevils and Supe
 Who was the winner between Royals and RCB at Jaipur?
 Who was the loser between Royals and RCB at Jaipur?
 Who was the winner between Royals and RCB on 19/05/2018?
-Who was the winner between Royals and RCB on 19/05/2018?
+Who was the loser between Royals and RCB on 19/05/2018?
 Where was the match between Royals & RCB held at Jaipur?
 When was the match between Royals & RCB held on 19/05/2018?
 How many runs were scored by RA Tripathi in the match between Royals and RCB at Jaipur?
@@ -12817,7 +12817,7 @@ How many wide balls did IS Sodhi bowl in the match between Royals and RCB on 19/
 Who was the winner between Sunrisers and KKR at Hyderabad (Deccan)?
 Who was the loser between Sunrisers and KKR at Hyderabad (Deccan)?
 Who was the winner between Sunrisers and KKR on 19/05/2018?
-Who was the winner between Sunrisers and KKR on 19/05/2018?
+Who was the loser between Sunrisers and KKR on 19/05/2018?
 Where was the match between Sunrisers & KKR held at Hyderabad (Deccan)?
 When was the match between Sunrisers & KKR held on 19/05/2018?
 How many runs were scored by S Dhawan in the match between Sunrisers and KKR at Hyderabad (Deccan)?
@@ -13081,7 +13081,7 @@ How many wide balls did CR Brathwaite bowl in the match between Sunrisers and KK
 Who was the winner between Daredevils and Mum Indians at Delhi?
 Who was the loser between Daredevils and Mum Indians at Delhi?
 Who was the winner between Daredevils and Mum Indians on 20/05/2018?
-Who was the winner between Daredevils and Mum Indians on 20/05/2018?
+Who was the loser between Daredevils and Mum Indians on 20/05/2018?
 Where was the match between Daredevils & Mum Indians held at Delhi?
 When was the match between Daredevils & Mum Indians held on 20/05/2018?
 How many runs were scored by PP Shaw in the match between Daredevils and Mum Indians at Delhi?
@@ -13333,7 +13333,7 @@ How many wide balls did A Mishra bowl in the match between Daredevils and Mum In
 Who was the winner between Super Kings and Kings XI at Pune?
 Who was the loser between Super Kings and Kings XI at Pune?
 Who was the winner between Super Kings and Kings XI on 20/05/2018?
-Who was the winner between Super Kings and Kings XI on 20/05/2018?
+Who was the loser between Super Kings and Kings XI on 20/05/2018?
 Where was the match between Super Kings & Kings XI held at Pune?
 When was the match between Super Kings & Kings XI held on 20/05/2018?
 How many runs were scored by KL Rahul in the match between Super Kings and Kings XI at Pune?
@@ -13579,7 +13579,7 @@ How many wide balls did R Ashwin bowl in the match between Super Kings and Kings
 Who was the winner between Sunrisers and Super Kings at Mumbai?
 Who was the loser between Sunrisers and Super Kings at Mumbai?
 Who was the winner between Sunrisers and Super Kings on 22/05/2018?
-Who was the winner between Sunrisers and Super Kings on 22/05/2018?
+Who was the loser between Sunrisers and Super Kings on 22/05/2018?
 Where was the match between Sunrisers & Super Kings held at Mumbai?
 When was the match between Sunrisers & Super Kings held on 22/05/2018?
 How many runs were scored by S Dhawan in the match between Sunrisers and Super Kings at Mumbai?
@@ -13825,7 +13825,7 @@ How many wide balls did Shakib Al Hasan bowl in the match between Sunrisers and 
 Who was the winner between KKR and Royals at Kolkata?
 Who was the loser between KKR and Royals at Kolkata?
 Who was the winner between KKR and Royals on 23/05/2018?
-Who was the winner between KKR and Royals on 23/05/2018?
+Who was the loser between KKR and Royals on 23/05/2018?
 Where was the match between KKR & Royals held at Kolkata?
 When was the match between KKR & Royals held on 23/05/2018?
 How many runs were scored by SP Narine in the match between KKR and Royals at Kolkata?
@@ -14065,7 +14065,7 @@ How many wide balls did JPR Scantlebury-Searles bowl in the match between KKR an
 Who was the winner between KKR and Sunrisers at Kolkata?
 Who was the loser between KKR and Sunrisers at Kolkata?
 Who was the winner between KKR and Sunrisers on 25/05/2018?
-Who was the winner between KKR and Sunrisers on 25/05/2018?
+Who was the loser between KKR and Sunrisers on 25/05/2018?
 Where was the match between KKR & Sunrisers held at Kolkata?
 When was the match between KKR & Sunrisers held on 25/05/2018?
 How many runs were scored by WP Saha in the match between KKR and Sunrisers at Kolkata?
@@ -14335,7 +14335,7 @@ How many wide balls did Shakib Al Hasan bowl in the match between KKR and Sunris
 Who was the winner between Super Kings and Sunrisers at Mumbai?
 Who was the loser between Super Kings and Sunrisers at Mumbai?
 Who was the winner between Super Kings and Sunrisers on 27/05/2018?
-Who was the winner between Super Kings and Sunrisers on 27/05/2018?
+Who was the loser between Super Kings and Sunrisers on 27/05/2018?
 Where was the match between Super Kings & Sunrisers held at Mumbai?
 When was the match between Super Kings & Sunrisers held on 27/05/2018?
 How many runs were scored by SP Goswami in the match between Super Kings and Sunrisers at Mumbai?
